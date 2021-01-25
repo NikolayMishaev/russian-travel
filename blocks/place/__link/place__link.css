@@ -1,0 +1,19 @@
+.place__link {
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF;
+transition: opacity .4s;
+}
+
+.place__link:first-child {
+font-size: 12px;
+line-height: 12px;
+letter-spacing: 0.2em;
+color: #AAAAAA;
+margin-bottom: 12px;
+text-decoration: none;
+}
+
+.place__link:last-child:hover {
+  opacity: .6;
+}

@@ -1,0 +1,20 @@
+.place__main-text {
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 163%;
+color: #FFFFFF;
+}
+
+@media (max-width: 768px) {
+  .place__main-text {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 544px) {
+  .place__main-text {
+  padding: 0 16px 0;
+  }
+}

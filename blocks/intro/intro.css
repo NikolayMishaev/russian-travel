@@ -1,0 +1,24 @@
+.intro {
+padding-top: 92px;
+padding-left: calc(39% - 351.19px);
+box-sizing: border-box;
+align-self: flex-start;
+}
+
+@media (max-width: 1024px) {
+  .intro {
+    padding-left: calc(9% - 44.16px);
+  }
+}
+
+@media (max-width: 768px) {
+  .intro {
+    padding: 88px 24px 0;
+  }
+}
+
+@media (max-width: 544px) {
+  .intro {
+    padding: 64px 16px 0;
+  }
+}

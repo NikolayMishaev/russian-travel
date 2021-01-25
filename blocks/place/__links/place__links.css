@@ -1,0 +1,22 @@
+.place__links {
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-self: flex-end;
+}
+
+@media (max-width: 544px) {
+  .place__links {
+  padding: 0 16px 0;
+  }
+}
+
+
+@media (max-width: 400px) {
+  .place__links {
+    display: none;
+  }
+}
