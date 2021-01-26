@@ -10,7 +10,7 @@ color: #FFFFFF;
 margin-top: 4px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 790px) {
   .lead__caption {
     padding-left: 24px;
   }

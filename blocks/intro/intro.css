@@ -1,17 +1,11 @@
 .intro {
-padding-top: 92px;
-padding-left: calc(39% - 351.19px);
+padding: 92px 48px 0;
 box-sizing: border-box;
-align-self: flex-start;
+max-width: 1080px;
+width: 100%;
 }
 
-@media (max-width: 1024px) {
-  .intro {
-    padding-left: calc(9% - 44.16px);
-  }
-}
-
-@media (max-width: 768px) {
+@media (max-width: 790px) {
   .intro {
     padding: 88px 24px 0;
   }

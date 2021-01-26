@@ -5,12 +5,6 @@
   display: flex;
 }
 
-@media (max-width: 1024px) {
-  .footer {
-padding: 92px calc(9% - 44.16px) 24px;
-  }
-}
-
 @media (max-width: 768px) {
   .footer {
 padding: 92px 24px 24px;
