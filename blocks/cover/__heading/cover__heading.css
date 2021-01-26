@@ -1,12 +1,16 @@
 .cover__heading {
-z-index: 2;
-position: absolute;
-top: 50%;
-left: 50%;
-transform: translate(-50%, -50%);
+  width: calc(63% + 377.6px);
+  box-sizing: border-box;
 text-decoration: none;
+position: relative;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: calc(58vw + 40px);
+max-height: 740px;
 }
 
-.cover__heading:hover + .cover__overlay {
+.cover__heading:hover .cover__overlay {
   opacity: .8;
 }

@@ -9,7 +9,7 @@ width: 100%;
 
 @media (max-width: 1024px) {
   .photo-grid {
-    padding: 92px calc(9% - 44.16px);
+    padding: 92px 48 0;
   }
 }
 
