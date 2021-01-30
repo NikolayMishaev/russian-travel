@@ -1,17 +1,17 @@
 .cover__heading {
   width: 100%;
-margin: 0 48px;
+  margin: 0 48px;
   box-sizing: border-box;
-text-decoration: none;
-position: relative;
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-min-height: 740px;
-background: url(../../../images/cover-trains.jpg) no-repeat;
-background-size: cover;
-background-position: center;
+  text-decoration: none;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 740px;
+  background: url(../../../images/cover-trains.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 .cover__heading:after {

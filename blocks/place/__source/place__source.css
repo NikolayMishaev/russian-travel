@@ -1,16 +1,16 @@
 .place__source {
-font-style: normal;
-font-weight: normal;
-display: flex;
-flex-direction: column;
-justify-content: flex-end;
-align-self: flex-end;
-max-width: 456px;
+  font-style: normal;
+  font-weight: normal;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-self: flex-end;
+  max-width: 456px;
 }
 
 @media (max-width: 544px) {
   .place__source {
-  padding: 0 16px 0;
+    padding: 0 16px 0;
   }
 }
 

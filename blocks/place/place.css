@@ -1,10 +1,10 @@
 .place {
-display: grid;
-grid-template-columns: 46.8% 1fr;
-column-gap: 40px;
-row-gap:48px;
-width: 100%;
-padding-bottom: 80px;
+  display: grid;
+  grid-template-columns: 46.8% 1fr;
+  column-gap: 40px;
+  row-gap:48px;
+  width: 100%;
+  padding-bottom: 80px;
 }
 
 @media (max-width: 1100px) {
@@ -32,8 +32,8 @@ padding-bottom: 80px;
 
 @media (max-width: 707px) {
   .place {
-  grid-template-columns: 1fr;
-  row-gap:32px;
-  padding-bottom: 49px;
+    grid-template-columns: 1fr;
+    row-gap:32px;
+    padding-bottom: 49px;
   }
 }
