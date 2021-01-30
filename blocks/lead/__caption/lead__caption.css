@@ -1,5 +1,4 @@
 .lead__caption{
-font-family: Inter;
 font-style: normal;
 font-weight: normal;
 font-size: 10px;
@@ -13,5 +12,11 @@ margin-top: 4px;
 @media (max-width: 790px) {
   .lead__caption {
     padding-left: 24px;
+  }
+}
+
+@media (max-width: 544px) {
+  .lead__caption {
+    padding-left: 16px;
   }
 }
