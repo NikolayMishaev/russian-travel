@@ -6,7 +6,7 @@
   color: #FFFFFF;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 896px) {
   .place__main-text {
     font-size: 16px;
   }
