@@ -1,6 +1,6 @@
 # Путешествия по России
 ***
-https://nikolaymishaev.github.io/russian-travel/
+https://nikolaymishaev.github.io/russian-travel/index.html
 ## Описание
 - На сайте можно познакомиться с красивыми местами России для путешествий
 - Можно изучить особености климата этих мест
