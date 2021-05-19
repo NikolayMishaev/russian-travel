@@ -1,4 +1,4 @@
-# Путешествия по России
+# Путешествие по России
 ***
 [ссылка на gh-pages](https://nikolaymishaev.github.io/russian-travel/index.html)
 ## Описание
