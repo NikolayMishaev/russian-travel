@@ -1,0 +1,24 @@
+.lead__image-map {
+  position: absolute;
+  max-width: 984px;
+  width: 95%;
+  left: 2.3%;
+  top: 22%;
+  height: 38%;
+}
+
+@media(max-width: 700px) {
+  .lead__image-map {
+    top: 21%;
+  }
+}
+
+@media(max-width: 340px) {
+  .lead__image-map {
+    top: 21.5%;
+    width: 95%;
+    left: 2.3%;
+    height: auto;
+  }
+}
+
