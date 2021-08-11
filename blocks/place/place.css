@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 46.8% 1fr;
   column-gap: 40px;
-  row-gap:48px;
+  row-gap: 48px;
   width: 100%;
   padding-bottom: 88px;
 }
@@ -27,7 +27,7 @@
 @media (max-width: 768px) {
   .place {
     column-gap: 26px;
-    row-gap:38px;
+    row-gap: 38px;
     padding-bottom: 82px;
   }
 }
@@ -35,7 +35,7 @@
 @media (max-width: 707px) {
   .place {
     grid-template-columns: 1fr;
-    row-gap:23px;
+    row-gap: 23px;
     padding-bottom: 53px;
     column-gap: 28px;
   }
@@ -44,7 +44,7 @@
 @media (max-width: 340px) {
   .place {
     grid-template-columns: 1fr;
-    row-gap:23px;
+    row-gap: 23px;
     padding-bottom: 51px;
   }
 }
