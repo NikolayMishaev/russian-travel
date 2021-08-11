@@ -1,0 +1,11 @@
+.place__paragraph {
+  margin: 0;
+}
+
+.place__paragraph:first-child {
+  margin-bottom: 26px;
+}
+
+.place__paragraph:only-child {
+  margin: 0;
+}

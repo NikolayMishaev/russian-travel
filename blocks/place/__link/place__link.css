@@ -1,0 +1,16 @@
+.place__link {
+  font-size: 18px;
+  line-height: 30px;
+  color: #FFFFFF;
+  transition: opacity .4s;
+}
+
+@media(max-width: 600px) {
+  .place__resource {
+    line-height: 22px;
+  }
+}
+
+.place__link:hover {
+  opacity: .8;
+}
