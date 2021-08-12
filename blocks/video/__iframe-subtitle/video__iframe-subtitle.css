@@ -1,0 +1,9 @@
+.video__iframe-subtitle {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 15px;
+  color: #FFFFFF;
+  z-index: 1;
+  margin: 5px 0 0;
+}

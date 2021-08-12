@@ -1,0 +1,43 @@
+.video__overlay {
+  width: 100%;
+  border: none;
+  height: 100%;
+  background-image: url(../../../images/video_start-frame_1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 30px 32px 30px;
+  box-sizing: border-box;
+  justify-content: space-between;
+}
+
+.video__overlay::after {
+  content: "";
+  background-color: black;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  opacity: .5;
+  border-radius: 5px;
+}
+
+@media(max-width: 800px) {
+  .video__overlay {
+    padding: 24px;
+  }
+}
+
+@media(max-width: 340px) {
+  .video__overlay {
+    padding: 16px;
+  }
+}

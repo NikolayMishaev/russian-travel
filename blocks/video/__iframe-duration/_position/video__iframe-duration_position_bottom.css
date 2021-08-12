@@ -1,0 +1,28 @@
+.video__iframe-duration_position_bottom {
+  margin-top: 92px;
+}
+
+@media(max-width: 1100px) {
+  .video__iframe-duration_position_bottom {
+    margin-top: 52px;
+  }
+}
+
+@media(max-width: 800px) {
+  .video__iframe-duration_position_bottom {
+    margin-top: 16px;
+  }
+}
+
+@media(max-width: 641px) {
+  .video__iframe-duration_position_bottom {
+    margin-top: 8px;
+  }
+}
+
+
+@media(max-width: 340px) {
+  .video__iframe-duration_position_bottom {
+    margin-top: 23px;
+  }
+}

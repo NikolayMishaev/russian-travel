@@ -1,0 +1,38 @@
+.section-title_position_center {
+  margin: 0 auto;
+  padding-left: 0;
+  }
+
+  @media(min-width: 901px) and (max-width: 1100px) {
+    .section-title_position_center {
+      font-size: 72px;
+      line-height: 65px;
+    }
+  }
+
+  @media(max-width: 900px) {
+    .section-title_position_center {
+      padding: 0 150px;
+    }
+  }
+
+  @media(max-width: 800px) {
+    .section-title_position_center {
+      margin-bottom: -8px;
+      padding: 0;
+    }
+  }
+
+  @media(max-width: 600px) {
+    .section-title_position_center {
+      margin-bottom: 0;
+      padding: 0 50px;
+    }
+  }
+
+  @media(max-width: 420px) {
+    .section-title_position_center {
+      margin-bottom: 0;
+      padding: 0;
+    }
+  }

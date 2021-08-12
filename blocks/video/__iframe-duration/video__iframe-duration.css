@@ -1,0 +1,42 @@
+.video__iframe-duration {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 13px;
+  letter-spacing: 0.3em;
+  color: #FFFFFF;
+  z-index: 1;
+  margin: 89px 0 0;
+}
+
+@media(max-width: 1100px) {
+  .video__iframe-duration {
+    margin: 48px 0 0px;
+  }
+}
+
+@media(max-width: 800px) {
+  .video__iframe-duration {
+    margin: 35px 0 4px;
+  }
+}
+
+@media(max-width: 641px) {
+  .video__iframe-duration {
+    margin: 36px 0 4px;
+    margin-top: auto;
+  }
+}
+
+@media(max-width: 340px) {
+  .video__iframe-duration {
+    margin-bottom: 0px;
+  }
+}
+
+
+@media(max-width: 316px) {
+  .video__iframe-duration {
+    margin-bottom: 4px;
+  }
+}

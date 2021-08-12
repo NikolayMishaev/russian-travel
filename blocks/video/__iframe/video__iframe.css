@@ -1,0 +1,6 @@
+.video__iframe {
+  width: 99%;
+  border: none;
+    border-radius: 5px;
+    height: 100%;
+}

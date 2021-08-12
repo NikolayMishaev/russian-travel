@@ -1,0 +1,38 @@
+.section-text {
+  font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+color: #fff;
+text-align: center;
+padding: 33px 0 64px;
+margin: 0;
+max-width: 640px;
+}
+
+@media(max-width: 1100px) {
+  .section-text {
+    padding: 33px 143px 64px;
+  }
+}
+
+@media(max-width: 800px) {
+  .section-text {
+    padding: 37px 40px 49px;
+  }
+}
+
+@media(max-width: 600px) {
+  .section-text {
+    font-size: 16px;
+    line-height: 23px;
+    padding: 22px 0 28px;
+  }
+}
+
+@media(max-width: 340px) {
+  .section-text {
+    padding-top: 19px;
+  }
+}

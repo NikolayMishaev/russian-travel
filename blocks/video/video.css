@@ -1,0 +1,29 @@
+.video {
+  padding: 0 48px 108px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+@media(max-width: 1300px) {
+  .video {
+    padding-bottom: 110px;
+  }
+}
+
+@media(max-width: 896px) {
+  .video {
+    padding: 0 24px 110px;
+  }
+}
+
+@media(max-width: 768px) {
+  .video {
+    padding-bottom: 103px;
+  }
+}
+
+@media(max-width: 544px) {
+  .video {
+    padding: 0 16px 66px;
+  }
+}
