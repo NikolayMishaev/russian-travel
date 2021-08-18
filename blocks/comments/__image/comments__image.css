@@ -1,0 +1,12 @@
+.comments__image {
+  margin: 0 auto;
+  display: block;
+  border-radius: 45px;
+  width: 96px;
+}
+
+@media(min-width: 901px) {
+  .comments__image {
+    margin: 0;
+  }
+}

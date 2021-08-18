@@ -1,0 +1,6 @@
+@media(min-width: 901px) {
+  .comments__container {
+    display: flex;
+    margin-top: -13px;
+  }
+}
