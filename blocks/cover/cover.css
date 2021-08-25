@@ -1,0 +1,12 @@
+.cover {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+}
+
+@media (min-width: 1101px) {
+  .cover {
+    padding: 0 48px 0;
+  }
+}
