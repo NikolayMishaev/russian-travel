@@ -472,5 +472,13 @@
         <p class="footer__copyright">&copy; 2021. Мишаев Николай</p>
       </footer>
     </div>
+    <script>
+      let iframePlay = document.querySelectorAll(".video__iframe-play");
+      iframePlay.forEach(function (elem) {
+        elem.addEventListener("click", function () {
+          this.parentNode.style.display = "none";
+        });
+      });
+    </script>
   </body>
 </html>
