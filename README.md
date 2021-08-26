@@ -1,6 +1,6 @@
 # Путешествия по России
 ***
-https://nikolaymishaev.github.io/russian-travel/
+https://nikolaymishaev.github.io/russian-travel-add/index.html
 ## Описание
 - Усложненный макет с добавлением новых блоков
 - На сайте можно познакомиться с красивыми местами России для путешествий
