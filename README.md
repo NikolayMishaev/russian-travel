@@ -1,6 +1,9 @@
 # Путешествия по России
 ***
-[ссылка на gh-pages](https://nikolaymishaev.github.io/russian-travel-add/index.html)
+
+- [ссылка на gh-pages](https://nikolaymishaev.github.io/russian-travel-add/index.html)
+- [ссылка на макет](https://www.figma.com/file/Ps5DEgC8gANJn0aJ3FWj3T/Russia-_-desktop-%2B-mobile-(Copy)?node-id=0%3A1)
+
 ## Скриншоты
 ![Места](https://github.com/NikolayMishaev/russian-travel-add/raw/main/images/readme/01.jpg)
 ![Места](https://github.com/NikolayMishaev/russian-travel-add/raw/main/images/readme/02.jpg)
@@ -16,12 +19,14 @@
   - Алтай
   - Зимний Байкал
   - Карелия
+  - 
 ## Функциональность
 - сайт адаптивен на любых разрешениях
 - страница написана по методологии __БЭМ__
 - использована схема организации файловой структуры _Nested_
 - использованы технологии гибкой верстки _flex_ и _grid_
 - использованы свойства Анимации __CSS__
+- 
 ## Планы по доработке проекта
 - создать страницу на английчском языке для возможности выбора между языками
 - создать форму обратной связи для осуществления возможности пользователям предлагать новые места для путешествий по России
